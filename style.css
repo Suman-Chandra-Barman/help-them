@@ -1,0 +1,33 @@
+body {
+  margin: 0;
+  font-family: "Roboto", sans-serif;
+}
+h1 {
+  font-size: 55px;
+}
+p {
+  font-size: 17px;
+}
+#header-section {
+  background: url(./images/donation8.jpg);
+  background-repeat: no-repeat;
+  height: 100vh;
+  background-size: cover;
+  text-align: center;
+  color: white;
+}
+.header-content {
+  background-color: rgba(11, 9, 9, 0.63);
+  height: 100%;
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.btn {
+  padding: 14px 20px;
+  border-radius: 5px;
+  color: white;
+  background-color: #ff5d4b;
+  font-size: 15px;
+}
