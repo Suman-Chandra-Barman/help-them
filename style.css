@@ -94,3 +94,14 @@ section {
 .card3 {
   background-color: rgb(255 245 16 / 15%);
 }
+footer {
+  text-align: center;
+  background-color: #000000d9;
+  color: #ffffffb0;
+  padding: 45px;
+}
+#text-style {
+  font-family: "Lobster Two", cursive;
+  font-size: 45px;
+  color: #ff1400bd;
+}
