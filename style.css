@@ -130,3 +130,27 @@ footer {
   border-top-right-radius: 5px;
   width: 130px;
 }
+.company-logo {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.company-logo-link {
+  width: 12%;
+  height: 100px;
+  padding: 5px;
+  margin: 5px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.logo-img {
+  width: 70%;
+  height: auto;
+}
+.logo4 {
+  width: 45%;
+}
+.logo5 {
+  width: 35%;
+}
