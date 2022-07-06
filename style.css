@@ -9,7 +9,8 @@ h2 {
   font-size: 35px;
 }
 p {
-  font-size: 17px;
+  font-size: 16px;
+  line-height: 20px;
 }
 #header-section {
   background: url(./images/donation8.jpg);
@@ -58,7 +59,7 @@ p {
 }
 section {
   text-align: center;
-  padding-top: 100px;
+  padding-top: 75px;
 }
 .amount-box {
   padding: 30px;
@@ -70,4 +71,26 @@ section {
   text-align: center;
   padding: 10px 20px;
   font-size: 15px;
+}
+.donate-planning-card {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.card-box {
+  width: 25%;
+  text-align: left;
+  padding: 40px 20px;
+  border-radius: 5px;
+  margin: 30px 10px;
+  height: 230px;
+}
+.card1 {
+  background-color: rgb(31 116 44 / 15%);
+}
+.card2 {
+  background-color: rgb(255 111 111 /15%);
+}
+.card3 {
+  background-color: rgb(255 245 16 / 15%);
 }
