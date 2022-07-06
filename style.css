@@ -5,6 +5,9 @@ body {
 h1 {
   font-size: 55px;
 }
+h2 {
+  font-size: 35px;
+}
 p {
   font-size: 17px;
 }
@@ -29,5 +32,42 @@ p {
   border-radius: 5px;
   color: white;
   background-color: #ff5d4b;
+  font-size: 15px;
+}
+.description {
+  text-align: center;
+}
+.donate-amount {
+  display: flex;
+  text-align: center;
+  justify-content: center;
+}
+.amount {
+  padding: 30px;
+  font-size: 26px;
+  font-weight: 600;
+  color: #0000009c;
+  background-color: #8080803b;
+  border-radius: 7px;
+  margin: 10px;
+  border: 2px solid;
+}
+.donate-amount p:hover {
+  border: 2px solid#ff5d4b;
+  background-color: #8b332939;
+}
+section {
+  text-align: center;
+  padding-top: 100px;
+}
+.amount-box {
+  padding: 30px;
+}
+.amount-input {
+  border: none;
+  border-bottom: 2px solid #0000006e;
+  width: 500px;
+  text-align: center;
+  padding: 10px 20px;
   font-size: 15px;
 }
